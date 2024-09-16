@@ -74,4 +74,5 @@ def main(page):
     print(df)
     df.to_csv('yallakora1.csv',index=False,encoding='utf-8')
 main(page)
+#edit
 >>>>>>> d0bf004c07e09d66ead28f806959850d6f5f7c75
